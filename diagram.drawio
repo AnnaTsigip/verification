@@ -33,6 +33,9 @@
                 <mxCell id="14" value="" style="edgeStyle=none;html=1;" edge="1" parent="1" source="11" target="13">
                     <mxGeometry relative="1" as="geometry"/>
                 </mxCell>
+                <mxCell id="21" value="" style="edgeStyle=none;html=1;" edge="1" parent="1" source="11" target="20">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
                 <mxCell id="11" value="myArray[i].Length &amp;lt; 4 &amp;amp;&amp;amp; myArray[i].Length &amp;gt; 0" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
                     <mxGeometry x="250" y="390" width="170" height="80" as="geometry"/>
                 </mxCell>
@@ -52,6 +55,15 @@
                 </mxCell>
                 <mxCell id="17" value="newArray[i] = myArray[i]" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
                     <mxGeometry x="280" y="670" width="120" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="23" value="" style="edgeStyle=none;html=1;" edge="1" parent="1" source="20" target="22">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="20" value="новый массив newArray[i]" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+                    <mxGeometry x="490" y="400" width="120" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="22" value="" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+                    <mxGeometry x="490" y="540" width="120" height="60" as="geometry"/>
                 </mxCell>
             </root>
         </mxGraphModel>
